@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300">
+<rect width="1000" height="300" rx="14" fill="#1b2b48"/>
+<rect y="292" width="1000" height="8" fill="#9a7b3f"/>
+<text x="56" y="70" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#9a7b3f">INSTITUTIONAL SYSTEMS FOR HIGHER EDUCATION</text>
+<text x="56" y="130" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-weight="700" fill="#ffffff">Nora Nasser Aldossari</text>
+<text x="56" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" fill="#ffffff">Institutional Systems Architect &amp; Developer</text>
+<text x="56" y="214" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#c9d1de">I build the systems a university runs on: evaluation, scheduling,</text>
+<text x="56" y="238" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#c9d1de">teaching quality and tracking, from requirements to live use.</text>
+<text x="944" y="70" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#c9d1de">Riyadh, Saudi Arabia</text>
+</svg>

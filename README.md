@@ -1,0 +1,47 @@
+<p align="center">
+  <a href="https://nora-aldossari.vercel.app"><img src="assets/banner.svg" alt="Nora Nasser Aldossari, Institutional Systems Architect and Developer" width="100%"></a>
+</p>
+
+<p align="center">
+  <a href="https://nora-aldossari.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/nora-al-dossari-918246132"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:aldossarinoraaa@gmail.com"><b>Email</b></a>
+</p>
+
+<br>
+
+<img src="assets/stats.svg" alt="4 institutional systems, 5,000+ students, 197+ staff users, 10+ units coordinated" width="100%">
+
+### About
+
+I am an academic who builds. Since 2011 I have taught, designed curricula and led assessment, and today I am the sole architect and developer of the core digital systems at the English Language Institute (ELI), Princess Nourah bint Abdulrahman University. I design the process first, build the system, govern it from day one, and train the people who use it.
+
+أبني الأنظمة التي تُشغّل العمل الأكاديمي والإداري، من فهم العملية إلى التشغيل الفعلي.
+
+### Institutional systems
+
+<img src="assets/institutional.svg" alt="Performance Evaluation, Academic Scheduling, Observation Distribution and Digital Tracking systems" width="100%">
+
+### Featured projects
+
+<a href="https://github.com/noa785/NoraLingua-Hub"><img src="assets/card-noralingua.svg" alt="NoraLingua Hub" width="49%"></a>
+<a href="https://github.com/noa785/bayyinah"><img src="assets/card-bayyinah.svg" alt="Bayyinah" width="49%"></a>
+
+### How I build
+
+| | |
+|---|---|
+| **Process first** | Requirements gathered with 10+ academic and administrative units before a line of code |
+| **Governance** | Role-based access, audit logging, RACI ownership. ICCGO-certified governance officer |
+| **Data you can trust** | Data-quality KPIs, validation, bilingual Arabic / English dashboards in R and Python |
+| **Adoption** | BCT-certified trainer: every launch comes with user training |
+
+### Stack
+
+`Next.js` `TypeScript` `Prisma` `Supabase (PostgreSQL)` `Python` `FastAPI` `R` `SQL` `Power Query` `Vercel`
+
+### Learning
+
+Graduate-credit Computer Science coursework at Harvard Extension School · MA in Linguistics (GPA 4.93 / 5)
+
+<sub>Riyadh, Saudi Arabia · Open to roles in academic operations, digital transformation and data governance.</sub>
