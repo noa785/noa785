@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://nora-aldossari.vercel.app"><img src="assets/banner.svg" alt="Nora Nasser Aldossari, Institutional Systems Architect and Developer" width="100%"></a>
-</p>
+<a href="https://nora-aldossari.vercel.app"><img src="assets/banner.svg" alt="Nora Nasser Aldossari, Institutional Systems Architect and Developer" width="100%"></a>
 
 <p align="center">
   <a href="https://nora-aldossari.vercel.app"><b>Portfolio</b></a> &nbsp;·&nbsp;
@@ -8,15 +6,13 @@
   <a href="mailto:aldossarinoraaa@gmail.com"><b>Email</b></a>
 </p>
 
-<br>
-
 <img src="assets/stats.svg" alt="4 institutional systems, 5,000+ students, 197+ staff users, 10+ units coordinated" width="100%">
 
 ### About
 
 I am an academic who builds. Since 2011 I have taught, designed curricula and led assessment, and today I am the sole architect and developer of the core digital systems at the English Language Institute (ELI), Princess Nourah bint Abdulrahman University. I design the process first, build the system, govern it from day one, and train the people who use it.
 
-أبني الأنظمة التي تُشغّل العمل الأكاديمي والإداري، من فهم العملية إلى التشغيل الفعلي.
+<p dir="rtl">أبني الأنظمة التي تُشغّل العمل الأكاديمي والإداري، من فهم العملية إلى التشغيل الفعلي.</p>
 
 ### Institutional systems
 
@@ -31,19 +27,14 @@ I am an academic who builds. Since 2011 I have taught, designed curricula and le
 
 ### How I build
 
-| | |
-|---|---|
-| **Process first** | Requirements gathered with 10+ academic and administrative units before a line of code |
-| **Governance** | Role-based access, audit logging, RACI ownership. ICCGO-certified governance officer |
-| **Data you can trust** | Data-quality KPIs, validation, bilingual Arabic / English dashboards in R and Python |
-| **Adoption** | BCT-certified trainer: every launch comes with user training |
+<img src="assets/method.svg" alt="Process first, governance, trusted data, adoption" width="100%">
 
 ### Stack
 
-`Next.js` `TypeScript` `Prisma` `Supabase (PostgreSQL)` `Python` `FastAPI` `R` `SQL` `Power Query` `Vercel`
+<img src="assets/stack.svg" alt="Next.js, TypeScript, Prisma, Supabase, PostgreSQL, Python, FastAPI, R, SQL, Power Query, Vercel" width="100%">
 
 ### Learning
 
-Graduate-credit Computer Science coursework at Harvard Extension School · MA in Linguistics (GPA 4.93 / 5)
+Graduate-credit Computer Science coursework at Harvard Extension School · MA in Linguistics (GPA 4.93 / 5) · ICCGO Governance Officer · BCT Certified Trainer
 
 <sub>Riyadh, Saudi Arabia · Open to roles in academic operations, digital transformation and data governance.</sub>
