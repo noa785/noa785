@@ -26,6 +26,8 @@ I am an academic who builds. Since 2011 I have taught, designed curricula and le
 
 <a href="https://github.com/noa785/NoraLingua-Hub"><img src="assets/card-noralingua.svg" alt="NoraLingua Hub" width="49%"></a>
 <a href="https://github.com/noa785/bayyinah"><img src="assets/card-bayyinah.svg" alt="Bayyinah" width="49%"></a>
+<a href="https://github.com/noa785/sehati"><img src="assets/card-sehati.svg" alt="Sehati" width="49%"></a>
+<a href="https://github.com/noa785/alpharev"><img src="assets/card-alpharev.svg" alt="AlphaRev" width="49%"></a>
 
 ### How I build
 
