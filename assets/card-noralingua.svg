@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="490" height="200" viewBox="0 0 490 200">
-<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#2d6fd6"/><stop offset="1" stop-color="#e0c27a"/></linearGradient></defs>
-<rect x=".5" y=".5" width="489" height="199" rx="14" fill="#f4f6fa" stroke="#d9dde3"/>
+<defs><linearGradient id="a" x1="0" x2="1"><stop offset="0" stop-color="#2d6fd6"/><stop offset="1" stop-color="#6FB8C2"/></linearGradient></defs>
+<rect x=".5" y=".5" width="489" height="199" rx="14" fill="#F1F6F7" stroke="#d9dde3"/>
 <path d="M14 .5 H476" stroke="url(#a)" stroke-width="5"/>
 <circle cx="430" cy="62" r="34" fill="#2d6fd6" fill-opacity=".1"/><g transform="translate(412,44)" fill="none" stroke="#2d6fd6" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h28M4 14h20M4 22h24M4 30h14"/></g>
-<text x="26" y="44" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" fill="#b8924a">FULL-STACK PLATFORM  |  LIVE</text>
-<text x="26" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#1b2b48">NoraLingua Hub</text>
+<text x="26" y="44" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5" fill="#3E8C96">FULL-STACK PLATFORM  |  LIVE</text>
+<text x="26" y="82" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" fill="#16242A">NoraLingua Hub</text>
 <text x="26" y="114" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2a2e">English learning matched to CEFR level and purpose,</text><text x="26" y="136" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14.5" fill="#1f2a2e">with an AI examiner that grades writing on IELTS bands.</text>
-<text x="26" y="176" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5e6670">Next.js 16 · TypeScript · Prisma · Supabase · Claude API</text>
+<text x="26" y="176" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" fill="#5E6E74">Next.js 16 · TypeScript · Prisma · Supabase · Claude API</text>
 <text x="464" y="176" text-anchor="end" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#2d6fd6">View repo →</text>
 </svg>
